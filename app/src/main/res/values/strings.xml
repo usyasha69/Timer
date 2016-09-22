@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="edit_text_seconds">Enter, number of seconds</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">reset</string>
+</resources>
